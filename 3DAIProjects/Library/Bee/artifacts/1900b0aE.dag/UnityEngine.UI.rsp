@@ -125,6 +125,21 @@
 -define:PACKAGE_UITOOLKIT
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Plugins/Microsoft.Bcl.Numerics.dll"
+-r:"Assets/Plugins/Microsoft.ML.Core.dll"
+-r:"Assets/Plugins/Microsoft.ML.CpuMath.dll"
+-r:"Assets/Plugins/Microsoft.ML.Data.dll"
+-r:"Assets/Plugins/Microsoft.ML.DataView.dll"
+-r:"Assets/Plugins/Microsoft.ML.dll"
+-r:"Assets/Plugins/Microsoft.ML.KMeansClustering.dll"
+-r:"Assets/Plugins/Microsoft.ML.PCA.dll"
+-r:"Assets/Plugins/Microsoft.ML.StandardTrainers.dll"
+-r:"Assets/Plugins/Microsoft.ML.Transforms.dll"
+-r:"Assets/Plugins/Newtonsoft.Json.dll"
+-r:"Assets/Plugins/System.Collections.Immutable.dll"
+-r:"Assets/Plugins/System.Numerics.Tensors.dll"
+-r:"Assets/Plugins/System.Runtime.CompilerServices.Unsafe.dll"
+-r:"Assets/Plugins/System.Threading.Channels.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.10f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
